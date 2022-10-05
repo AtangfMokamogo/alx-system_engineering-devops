@@ -1,0 +1,3 @@
+#!/bi/bash
+path='readlink -f "${BASSH_SOURCE:-$0}"'
+echo 'the absolute path is' $path
