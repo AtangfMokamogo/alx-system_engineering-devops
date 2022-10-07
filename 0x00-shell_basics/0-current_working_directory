@@ -1,2 +1,2 @@
 #!/bin/bash
-path='reaadlink -ff "${BASH_SOURCE:-$0}
+pwd
